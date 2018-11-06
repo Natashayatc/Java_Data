@@ -1,6 +1,11 @@
+/** Реализация Vector
+ * @version 1.0 05 ноября 2018
+ * @author Natasha Yatcenya
+ */
 import java.util.Vector;
 
 public class Vector_Demo {
+
     public static void main(String[] args) {
         Vector vector = new Vector();
 

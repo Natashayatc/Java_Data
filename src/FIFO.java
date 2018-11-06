@@ -1,3 +1,8 @@
+/** Реализация FIFO
+ * @version 1.0 05 ноября 2018
+ * @author Natasha Yatcenya
+ */
+
 import java.util.LinkedList;
 import java.util.Queue;
 

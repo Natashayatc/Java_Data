@@ -1,6 +1,12 @@
+/** Реализация LIFO
+ * @version 1.0 05 ноября 2018
+ * @author Natasha Yatcenya
+ */
+
 import java.util.Stack;
 
 public class LIFO {
+
     public static void main(String[] args) {
         Stack stack = new Stack();
         // добавляем значения в стек

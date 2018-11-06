@@ -1,6 +1,13 @@
+/** Реализация Hash_table
+ * @version 1.0 05 ноября 2018
+ * @author Natasha Yatcenya
+ */
+
 import java.util.Enumeration;
 import java.util.Hashtable;
+
 public class Hash_tableDemo {
+
     public static void main(String[] args) {
         Enumeration names;
         String key;

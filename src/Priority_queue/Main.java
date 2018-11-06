@@ -1,7 +1,13 @@
+/** Реализация приоритетной очереди
+ * @version 1.0 05 ноября 2018
+ * @author Natasha Yatcenya
+ */
 package Priority_queue;
 import java.util.Comparator;
 import java.util.PriorityQueue;
+
 public class Main {
+
     public static void main(String[] args)
     {
         Comparator<String> comparator = new StringLengthComparator();

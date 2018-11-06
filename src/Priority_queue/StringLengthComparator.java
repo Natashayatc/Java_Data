@@ -1,3 +1,7 @@
+/** Сравнивает объекты класса по длине
+ * @version 1.0 05 ноября 2018
+ * @author Natasha Yatcenya
+ */
 package Priority_queue;
 import java.util.Comparator;
 
